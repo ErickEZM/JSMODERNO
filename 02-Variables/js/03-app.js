@@ -1,4 +1,3 @@
-
 const producto = "Tablet";
 
 // El valor de un const no puede ser reasignado

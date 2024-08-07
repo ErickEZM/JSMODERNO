@@ -1,4 +1,3 @@
-
 const nombre = "Hola";
 const precio = 200;
 

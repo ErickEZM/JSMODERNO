@@ -1,4 +1,3 @@
-
 // Object Literal
 const producto = {
     nombre: "Monitor de 20 pulgadas", 

@@ -7,7 +7,9 @@ const producto = {
     disponible: true
 }
 
-Object.seal(producto); // Te permite modificar las llaves existentes de un objeto pero no permite agregar nuevas ni eliminarlas
+/* Te permite modificar las llaves existentes de un 
+objeto pero no permite agregar nuevas ni eliminarlas */
+Object.seal(producto); 
 
 producto.disponible = false;
 

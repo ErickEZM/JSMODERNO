@@ -1,5 +1,4 @@
 // Indice es la posicion de cada valor del arreglo, en JS inician desde la posicion 0
-
 const numeros = [10, 20, 30];
 
 const meses = new Array('Enero', 'Febrero', 'Marzo');
